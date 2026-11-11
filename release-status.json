@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "movie-scene_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "movie-scene": "6c684bc2ed230ac05803e2beee3431bd85085c1f29c0954b5cb19dabb42def10"
+  }
+}
